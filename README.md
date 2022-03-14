@@ -1,17 +1,11 @@
 # NhutPhi14.github.io
-
-<html>
-<head>
-    <title> CAY DAO </title>
- <body & bgcolor ="#ffffcc"> 
- 
-<h1 align="center"><font face ="Comic Sans MS "color="red">CA DAO VIET NAM</font></h1>
-<p align ="center"><font size="5" color="blue">
-<font face="Brush Script MT" size="+4">T</font>hap Muoi Dep Nhat <u><i>hoa sen</i></u>.</font>
-</p>
-<p align="center"><font size="5" color="blue">
-<font face ="Brush Script MT" size="+4">V</font>iet Nam dep nhat co ten <b>Bác Hồ</b>.</font>
-<marquee behavior="left" direction="khang"></marquee>
-</p>
-</body>
-</html>
+<body>
+<form name= “dangnhap” action="XuLy.html" method="post">
+<table border="1" cellpadding="10" align="center" >
+<tr>
+<td colspan="2" style="text-align:center; font-size:25px; font-weight:bold">ÐANG NH?P</td>
+</tr>
+<tr>
+<td>Username</td>
+<td><input type="text" size = "30" id="txtUse" placeholder="Nhap ten dang nhap"/></td>
+</tr>
